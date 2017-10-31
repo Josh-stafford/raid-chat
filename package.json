@@ -1,0 +1,20 @@
+{
+  "name": "Chat-Client",
+  "version": "1.0.0",
+  "description": "A chatting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js"
+  ],
+  "author": "Josh Stafford",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socketio": "^1.0.0"
+  }
+}
